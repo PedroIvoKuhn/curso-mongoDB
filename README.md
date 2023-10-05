@@ -1,15 +1,15 @@
 # curso-mongoDB
 
-Esse repositório foi criado durante um curso de [Java](https://www.udemy.com/course/java-curso-completo/), onde o projeto é um sistema de usuarios que fazem posts e comentarios.
+Este repositório foi criado durante um curso de [Java](https://www.udemy.com/course/java-curso-completo/), onde o projeto é um sistema de usuários que fazem posts e comentários.
+
 
 ## Pré-requisitos
 
 Para rodar o projeto é necessário:
-
-    -[Spring](https://spring.io/).
-    -[Postman](https://www.postman.com/) ou outra ferramenta.
-    -[MongoDB](https://www.mongodb.com/).
-    -[MongoCompass](https://www.mongodb.com/products/compass)(opcional).
+- [Spring](https://spring.io/).
+- [Postman](https://www.postman.com/) ou outra ferramenta.
+- [MongoDB](https://www.mongodb.com/).
+- [MongoCompass](https://www.mongodb.com/products/compass)(opcional).
 
 ## Como executar
 
